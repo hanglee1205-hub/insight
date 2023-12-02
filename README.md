@@ -1,4 +1,4 @@
-<img src="/images/boo.svg">
+<img src="/insight_demo.png">
 <h2>Background/Pain-point</h2>
 
 <table>
