@@ -6,7 +6,7 @@
    <td colspan="3" >
 <ol>
 
-<li>The tracking data quality is low, mainly due to bugs during app/web release.
+<li>Ecommerce Platform: The tracking data quality is low, mainly due to bugs during app/web release.
 
 <li>The issue can be detected late and cause big data loss.
 
