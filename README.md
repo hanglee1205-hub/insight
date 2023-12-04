@@ -450,8 +450,7 @@ Have dependency to Module 2 and 3 (to know which alert is Helpful = true alert)
  
 <li>Prophet alternative: <a href="https://python.libhunt.com/prophet-alternatives">https://python.libhunt.com/prophet-alternatives</a>
  
-<li>Some note: <a href="https://confluence.shopee.io/download/attachments/1361216554/TMS%20Monitor.py?version=1&modificationDate=1665543226000&api=v2">we Monitor.py</a>
-
+<li>Some note: Link
 <table>
   <tr>
    <td>
@@ -634,7 +633,7 @@ prophet.add_country_holidays(country_name='SG')</pre>
 <strong>Traffic Insight Tooltip</strong>
 <ol>
 
-<li>Read more: <a href="https://sites.google.com/shopee.com/traffic-suite-help-center/tms/tms-monitor">How we identify anomaly </a>
+<li>Read more: Link
 </li>
 </ol>
 </li>
@@ -873,7 +872,7 @@ Freq: Daily
   <tr>
    <td>8
    </td>
-   <td>User Sign Up Success: <a href="https://tms.traffic.shopee.io/tracker/point?appId=0&pointId=7832">https://we.traffic.shopee.io/tracker/point?appId=0&pointId=7832</a>
+   <td>User Sign Up Success: Link
    </td>
    <td>
 <ol>
@@ -905,9 +904,8 @@ Freq: Daily
   <tr>
    <td>9
    </td>
-   <td>User Login Success:
+   <td>User Login Success
 <p>
-<a href="https://tms.traffic.shopee.io/tracker/point?appId=0&pointId=11756">https://we.traffic.shopee.io/tracker/point?appId=0&pointId=11756</a>
    </td>
    <td>
 <ol>
@@ -939,7 +937,7 @@ Freq: Daily
   <tr>
    <td>10
    </td>
-   <td>Users Product Page View: <a href="https://tms.traffic.shopee.io/tracker/point?appId=0&pointId=4911">https://we.traffic.shopee.io/tracker/point?appId=0&pointId=4911</a>
+   <td>Users Product Page View
    </td>
    <td>
 <ol>
@@ -975,7 +973,7 @@ Freq: Daily
   <tr>
    <td>11
    </td>
-   <td>Users Add to cart success: <a href="https://tms.traffic.shopee.io/tracker/point?appId=0&pointId=1464">https://we.traffic.shopee.io/tracker/point?appId=0&pointId=1464</a>
+   <td>Users Add to cart succes
    </td>
    <td>
 <ol>
@@ -1009,7 +1007,7 @@ Freq: Daily
   <tr>
    <td>12
    </td>
-   <td>Users Checkout success: <a href="https://tms.traffic.shopee.io/tracker/point?appId=0&pointId=7769">https://we.traffic.shopee.io/tracker/point?appId=0&pointId=7769</a>
+   <td>Users Checkout success
    </td>
    <td>
 <ol>
@@ -1240,7 +1238,7 @@ Option 2:
    </td>
    <td>Users can select to **manually create** or **link bug ticket** to follow up with the issue > we will auto-mark Alert as Helpful
 
-**Create JIRA ticket**: Similar UI as current [Report Issue](https://sites.google.com/shopee.com/traffic-suite-help-center/tms/user-behaviour-track-tms-design/tracking-library/report-tracking-point-issue?authuser=0) 
+**Create JIRA ticket**: Similar UI as current [Report Issue] 
 
 
 <table>
@@ -1253,7 +1251,7 @@ Option 2:
   <tr>
    <td>Project
    </td>
-   <td><a href="https://jira.shopee.io/projects/SPTSS/">https://jira.shopee.io/projects/SPTSS/</a>
+   <td>
    </td>
   </tr>
   <tr>
@@ -1316,7 +1314,7 @@ Tracking point list (we auto-filled)
 </table>
 
 
-**Link JIRA ticket**: Similar UI as current [Report Issue](https://sites.google.com/shopee.com/traffic-suite-help-center/tms/user-behaviour-track-tms-design/tracking-library/report-tracking-point-issue?authuser=0) 
+**Link JIRA ticket**: Similar UI as current [Report Issue]
 
 
 
@@ -1556,11 +1554,11 @@ Only if users add alert, alert will be sent to PIC via selected channel:
 <li>Link in email 
 <ol>
  
-<li> we News Feed: <a href="https://trafficsuite.shopee.io/news">https://trafficsuite.shopee.io/news</a>
+<li> we News Feed: Link
  
-<li>we Support Group: <a href="https://sites.google.com/shopee.com/traffic-suite-help-center/home#h.s2rit6csc6n2">https://sites.google.com/shopee.com/traffic-suite-help-center/home#h.s2rit6csc6n2</a>
+<li>we Support Group: Link
  
-<li>we Help Centre: <a href="https://sites.google.com/shopee.com/traffic-suite-help-center/tms?authuser=0">https://sites.google.com/shopee.com/traffic-suite-help-center/we</a> 
+<li>we Help Centre: Link 
 </li> 
 </ol>
 
@@ -1652,12 +1650,12 @@ Only if users add alert, alert will be sent to PIC via selected channel:
 
 <li>Remove Volume Alert in Notification
 
-<li>Move Alert Report in we: <a href="https://tms.traffic.shopee.io/monitor/trackingAlert/validationAlert">https://we.traffic.shopee.io/monitor/trackingAlert/validationAlert</a> to Admin menu > Change to Validation Alert Report (Remove Volume Alert Tab)
+<li>Move Alert Report in Current Platform: to Admin menu > Change to Validation Alert Report (Remove Volume Alert Tab)
 
-<li><del> Move Tracking Issue Summary's content in we <a href="https://tms.traffic.shopee.io/monitor/trackingIssueSummary">https://we.traffic.shopee.io/monitor/trackingIssueSummary</a> (PIC: Benley) to be Under Admin</del> 
+<li><del> Move Tracking Issue Summary's content in Current Platform (PIC: Benley) to be Under Admin</del> 
 <ol>
  
-<li><del>Tooltip: Coming Soon. Please check <a href="https://jira.shopee.io/projects/SPTSS/">JIRA board </a>for tracking issue list.</del>
+<li><del>Tooltip: Coming Soon. Please check link for tracking issue list.</del>
  
 <li><del>Yong Chao team(?) will take over Tracking Issue Monitoring Report > will design Tracking Issue Summary page later </del>
 </li> 
@@ -1745,7 +1743,7 @@ App Version:
    </td>
    <td>View Detail → Direct to tracking point detail page | Alert tab
 <p>
-Learn More → Hyper link: <a href="https://sites.google.com/shopee.com/traffic-suite-help-center/tms/tms-monitor/validation-alert?authuser=0">https://sites.google.com/shopee.com/traffic-suite-help-center/we/we-monitor/validation-alert?authuser=0</a>
+Learn More → Hyper link
    </td>
   </tr>
 </table>
@@ -1989,14 +1987,14 @@ Instead of displaying 4 alerts for all dates on 4 Oct, Can we group the alert to
   <tr>
    <td rowspan="4" >Notification North Star Dashboard (1st tab)
 <p>
-<a href="https://datasuite.shopee.io/dashboard/dashboard/25b334ec-086a-479c-a18a-154e27ca27f5/normal?page=0">https://datasuite.shopee.io/dashboard/dashboard/25b334ec-086a-479c-a18a-154e27ca27f5/normal?page=0</a>
+
 <p>
 Note:
 <ol>
 
 <li>Dashboard shows data T-3
 
-<li>SQL <a href="https://confluence.shopee.io/download/attachments/1361216554/new_ar_north_star_script_optimized.py?version=1&modificationDate=1662531419000&api=v2">new_ar_north_star_script_optimized.py</a>
+<li>SQL 
 </li>
 </ol>
    </td>
@@ -2087,14 +2085,14 @@ BE data
   <tr>
    <td rowspan="6" >Notification North Star Dashboard (2nd tab)
 <p>
-<a href="https://datasuite.shopee.io/dashboard/dashboard/25b334ec-086a-479c-a18a-154e27ca27f5/normal?page=0">https://datasuite.shopee.io/dashboard/dashboard/25b334ec-086a-479c-a18a-154e27ca27f5/normal?page=0</a>
+
 <p>
 Note:
 <ol>
 
 <li>Dashboard shows data T-3
 
-<li>SQL <a href="https://confluence.shopee.io/download/attachments/1361216554/new_pn_north_star_script_optimized.py?version=1&modificationDate=1662533102000&api=v2">new_pn_north_star_script_optimized.py</a>
+<li>SQL 
 </li>
 </ol>
    </td>
@@ -2226,7 +2224,7 @@ E.g. 10.3%
   <tr>
    <td rowspan="5" >Notification North Star Dashboard (4th tab)
 <p>
-<a href="https://datasuite.shopee.io/dashboard/dashboard/25b334ec-086a-479c-a18a-154e27ca27f5/normal?page=0">https://datasuite.shopee.io/dashboard/dashboard/25b334ec-086a-479c-a18a-154e27ca27f5/normal?page=0</a>
+
 <p>
 Note:
 <ol>
@@ -2341,7 +2339,6 @@ E.g. 13.1%
   <tr>
    <td rowspan="4" >Chat dashboard 
 <p>
-<a href="https://datasuite.shopee.io/dashboard/dashboard/9defde8b-3a51-4a3d-9fac-20e85186365e/normal?page=0">https://datasuite.shopee.io/dashboard/dashboard/9defde8b-3a51-4a3d-9fac-20e85186365e/normal?page=0</a>
    </td>
    <td>Chat
    </td>
@@ -2466,7 +2463,6 @@ Weekly
   <tr>
    <td rowspan="14" >Account Key Metrics Dashboard
 <p>
-<a href="https://datasuite.shopee.io/dashboard/dashboard/abd5e8b9-1fb0-4c22-bfd2-960a350124bc/normal?page=0">https://datasuite.shopee.io/dashboard/dashboard/abd5e8b9-1fb0-4c22-bfd2-960a350124bc/normal?page=0</a>
    </td>
    <td>Sign Up&Login Metrics
    </td>
@@ -3062,7 +3058,6 @@ Target_type
   <tr>
    <td rowspan="2" >Duration per user
 <p>
-<a href="https://confluence.shopee.io/download/attachments/1361216554/Feature_User_Duration_Weekly_Report_2022-05-02_to_2022-05-08.xlsx?version=1&modificationDate=1662538116000&api=v2">Feature_User_Duration_Weekly_Report_2022-05-02_to_2022-05-08.xlsx</a>
    </td>
    <td>Page duration
    </td>
@@ -3127,7 +3122,7 @@ PIC ash.angsh
 
 [https://docs.google.com/spreadsheets/d/1hSa8hjTImVnctWmLzmfonVVyQ3G6uv4n9URqoGhJV0w/edit#gid=1648881842](https://docs.google.com/spreadsheets/d/1hSa8hjTImVnctWmLzmfonVVyQ3G6uv4n9URqoGhJV0w/edit#gid=1648881842) 
 
-TheH channel "Shopee Campaign Noti" will send out all the campaigns of all regions which was planed at the beginning of the year .
+The channel "Shopee Campaign Noti" will send out all the campaigns of all regions which was planed at the beginning of the year .
 
 <h3>Holiday</h3>
 
@@ -3135,10 +3130,7 @@ TheH channel "Shopee Campaign Noti" will send out all the campaigns of all regio
 Add holiday for each region
 
 <h3>Known tracking issue</h3>
-
-
-[https://docs.google.com/spreadsheets/d/1C6bSShxXDkk1oYP03kCBBYOxIzqwXxWYcwKUFsEB2ro/edit#gid=1401675639](https://docs.google.com/spreadsheets/d/1C6bSShxXDkk1oYP03kCBBYOxIzqwXxWYcwKUFsEB2ro/edit#gid=1401675639)
-
+Link
 <h3>Checking Accuracy level </h3>
 
 
@@ -3149,9 +3141,9 @@ Add holiday for each region
 
 
 
-* 4 confirmed to be tracking issue (impression did not send - P0 tracking): [https://jira.shopee.io/projects/SPTSS/queues/issue/SPTSS-603](https://jira.shopee.io/projects/SPTSS/queues/issue/SPTSS-603)
-* 1 abnormal increase for click (FPM is checking): [https://trafficsuite.shopee.io/we/we_monitor/trafficInsight/all/a7e9c5950ad24a739f6eb5d72d5b61f7](https://trafficsuite.shopee.io/tms/tms_monitor/trafficInsight/all/a7e9c5950ad24a739f6eb5d72d5b61f7)
-* 1 abnormal increase for view (FPM is checking): [https://trafficsuite.shopee.io/we/we_monitor/trafficInsight/all/19887eeec8264b74af9f5c58078c4f13](https://trafficsuite.shopee.io/tms/tms_monitor/trafficInsight/all/19887eeec8264b74af9f5c58078c4f13)
+* 4 confirmed to be tracking issue (impression did not send - P0 tracking): JIRA link
+* 1 abnormal increase for click (FPM is checking): Link
+* 1 abnormal increase for view (FPM is checking): Link
 
 <h2>Reference</h2>
 
@@ -3162,7 +3154,7 @@ Google Analytics: [https://support.google.com/analytics/answer/9443595?hl=en&utm
 
 Redash: Redash S&R (Pls apply access via SOUP for Redash)
 
-(Shopee) YMAL troubleshoot
+YMAL troubleshoot
 
 Meituan: [https://tech.meituan.com/2017/04/21/order-holtwinter.html](https://tech.meituan.com/2017/04/21/order-holtwinter.html)
 
